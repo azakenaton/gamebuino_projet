@@ -8,6 +8,6 @@ Features :
 
 - Déplacements gauche, droite (diagonales) 
 
-- Création du personnage 
+- Création du personnage (4 pixels et centré au milieu au départ)
 - Création des ennemis 
 - Création des collisions 
