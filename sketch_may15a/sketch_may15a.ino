@@ -12,10 +12,10 @@ void loop() {
   while(!gb.update());
   gb.display.clear();
 
-  if(posX = gb.display.width()){
+  if(posX == gb.display.width()-4){
     speedX = -1;
   }
-  if(posX = 0){
+  if(posX == 0){
     speedX = 1;
   }
 
